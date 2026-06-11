@@ -1,4 +1,4 @@
-# FIFA World Cup 2026 Winner Predictor
+#FIFA-World-Cup-2026-Prediction-Framework
 
 A Python-based sports analytics project for predicting the FIFA World Cup 2026 winner using Elo ratings, Poisson goal modeling, Random Forest evaluation, and Monte Carlo tournament simulation.
 
