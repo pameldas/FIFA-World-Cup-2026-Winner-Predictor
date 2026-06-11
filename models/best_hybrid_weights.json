@@ -1,0 +1,12 @@
+{
+    "poisson_weight": 1.0,
+    "classifier_weight": 0.0,
+    "selection_metric": "neutral_validation_log_loss",
+    "validation_log_loss": 0.9025914516207619,
+    "validation_accuracy": 0.5835734870317003,
+    "validation_macro_f1": 0.44077500674024056,
+    "multiclass_brier_score": 0.5315166172753544,
+    "neutral_validation_matches": 694,
+    "validation_start_date": "2022-01-01",
+    "validation_end_date": "2023-12-16"
+}
