@@ -151,8 +151,6 @@ The model is presented as a sports analytics experiment rather than a final dete
 
 ## Author
 
-## Author
-
 Pamel Das
 
 Electrical & Electronic Engineering, CUET
