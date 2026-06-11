@@ -147,8 +147,12 @@ python src/evaluate_final_hybrid_test.py
 
 This project is a simulation-based prediction framework, not a guaranteed forecast. Football outcomes depend on many unpredictable factors such as injuries, tactical changes, player availability, form fluctuations, red cards, and real-time match conditions.
 
-The model should be interpreted as a sports analytics experiment rather than a final deterministic prediction.
+The model is presented as a sports analytics experiment rather than a final deterministic prediction.
 
 ## Author
 
-BPS
+## Author
+
+Pamel Das
+
+Electrical & Electronic Engineering, CUET
