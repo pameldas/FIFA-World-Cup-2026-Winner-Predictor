@@ -1,0 +1,792 @@
+Champion,RunnerUp,Count,Probability
+Argentina,Spain,621,6.21
+Spain,Argentina,449,4.49
+Argentina,France,258,2.58
+Argentina,Brazil,189,1.89
+Argentina,Portugal,177,1.77
+Argentina,Ecuador,173,1.73
+Argentina,Belgium,162,1.62
+Spain,Portugal,148,1.48
+Argentina,Colombia,148,1.48
+Argentina,Germany,133,1.33
+Spain,Brazil,121,1.21
+Argentina,Japan,114,1.14
+Argentina,Morocco,107,1.07
+Spain,Mexico,101,1.01
+Spain,Colombia,99,0.99
+Argentina,Netherlands,91,0.91
+Argentina,England,89,0.89
+Argentina,Mexico,89,0.89
+Spain,England,88,0.88
+Brazil,Argentina,84,0.84
+Spain,France,83,0.83
+France,Argentina,81,0.81
+Argentina,Türkiye,77,0.77
+Portugal,Spain,73,0.73
+Spain,Morocco,73,0.73
+Argentina,IR Iran,72,0.72
+Argentina,Algeria,69,0.69
+Spain,Germany,69,0.69
+Spain,Uruguay,66,0.66
+Spain,Ecuador,66,0.66
+Portugal,Argentina,65,0.65
+Brazil,Spain,64,0.64
+Ecuador,Argentina,64,0.64
+Argentina,Switzerland,55,0.55
+Spain,Netherlands,54,0.54
+Spain,Belgium,54,0.54
+Colombia,Spain,53,0.53
+Spain,Japan,51,0.51
+France,Brazil,50,0.5
+Colombia,Argentina,49,0.49
+Mexico,Spain,47,0.47
+Argentina,Canada,46,0.46
+France,Mexico,44,0.44
+Colombia,Portugal,44,0.44
+France,Spain,44,0.44
+Spain,Canada,43,0.43
+France,Portugal,43,0.43
+Morocco,Argentina,43,0.43
+Brazil,France,40,0.4
+Brazil,Morocco,39,0.39
+Argentina,Korea Republic,39,0.39
+England,Spain,39,0.39
+Brazil,Colombia,38,0.38
+Portugal,France,38,0.38
+Argentina,Croatia,38,0.38
+Portugal,Colombia,37,0.37
+Argentina,Uruguay,36,0.36
+Brazil,Ecuador,36,0.36
+Ecuador,Brazil,35,0.35
+Colombia,Brazil,34,0.34
+Argentina,Austria,33,0.33
+Ecuador,Portugal,33,0.33
+Ecuador,Germany,32,0.32
+Germany,Argentina,32,0.32
+Portugal,Ecuador,31,0.31
+Argentina,Paraguay,31,0.31
+Portugal,Mexico,31,0.31
+Colombia,France,30,0.3
+Mexico,France,30,0.3
+Spain,Switzerland,30,0.3
+Brazil,Portugal,30,0.3
+Japan,Argentina,30,0.3
+Brazil,Mexico,29,0.29
+Portugal,Brazil,29,0.29
+France,Ecuador,28,0.28
+France,Colombia,28,0.28
+Argentina,Norway,28,0.28
+Spain,Croatia,27,0.27
+France,Morocco,27,0.27
+Ecuador,Spain,27,0.27
+Spain,IR Iran,27,0.27
+Brazil,Japan,27,0.27
+Portugal,Germany,27,0.27
+England,Argentina,26,0.26
+Ecuador,England,26,0.26
+Belgium,Argentina,25,0.25
+France,Belgium,25,0.25
+Argentina,Senegal,24,0.24
+England,Ecuador,24,0.24
+Brazil,Germany,24,0.24
+Portugal,Japan,23,0.23
+Ecuador,France,23,0.23
+England,Portugal,23,0.23
+Brazil,England,23,0.23
+Germany,Brazil,22,0.22
+Morocco,Brazil,22,0.22
+Germany,Ecuador,22,0.22
+Morocco,Ecuador,22,0.22
+Morocco,Spain,22,0.22
+Japan,Spain,22,0.22
+Brazil,Netherlands,22,0.22
+Portugal,Belgium,21,0.21
+Spain,Türkiye,21,0.21
+France,England,21,0.21
+Belgium,Mexico,21,0.21
+Argentina,Egypt,21,0.21
+Colombia,Mexico,21,0.21
+Germany,France,20,0.2
+England,France,20,0.2
+Mexico,Germany,20,0.2
+Argentina,Australia,20,0.2
+Ecuador,Colombia,20,0.2
+Ecuador,Mexico,20,0.2
+Colombia,Morocco,20,0.2
+Belgium,Portugal,20,0.2
+Colombia,Ecuador,19,0.19
+Mexico,Brazil,19,0.19
+Japan,Brazil,19,0.19
+Portugal,England,19,0.19
+Mexico,Argentina,19,0.19
+Brazil,Belgium,19,0.19
+France,Uruguay,19,0.19
+Portugal,Switzerland,19,0.19
+France,Japan,19,0.19
+Morocco,England,18,0.18
+Portugal,Morocco,18,0.18
+Argentina,United States,18,0.18
+Germany,Spain,18,0.18
+Colombia,Netherlands,18,0.18
+Morocco,Belgium,18,0.18
+Morocco,Colombia,18,0.18
+Brazil,IR Iran,18,0.18
+Netherlands,Argentina,18,0.18
+Ecuador,Belgium,17,0.17
+Germany,Colombia,17,0.17
+France,Netherlands,17,0.17
+Morocco,France,17,0.17
+Netherlands,Spain,17,0.17
+England,Belgium,16,0.16
+Ecuador,Japan,16,0.16
+Spain,Algeria,16,0.16
+Mexico,Portugal,16,0.16
+England,Netherlands,16,0.16
+Spain,Norway,15,0.15
+Japan,Portugal,15,0.15
+Colombia,England,15,0.15
+Belgium,Brazil,15,0.15
+Colombia,Belgium,15,0.15
+Brazil,Canada,15,0.15
+Uruguay,Spain,15,0.15
+Colombia,Germany,15,0.15
+Belgium,France,15,0.15
+Netherlands,Brazil,15,0.15
+Morocco,Portugal,14,0.14
+Morocco,Japan,14,0.14
+Belgium,Spain,14,0.14
+Spain,Paraguay,14,0.14
+Netherlands,Japan,14,0.14
+Morocco,Mexico,14,0.14
+France,Germany,14,0.14
+Germany,England,14,0.14
+Brazil,Algeria,14,0.14
+Mexico,Belgium,14,0.14
+Colombia,IR Iran,14,0.14
+Türkiye,Argentina,13,0.13
+Netherlands,France,13,0.13
+Spain,Senegal,13,0.13
+Belgium,Germany,13,0.13
+Brazil,Switzerland,13,0.13
+Portugal,Algeria,13,0.13
+Colombia,Japan,13,0.13
+Japan,England,13,0.13
+Ecuador,Netherlands,13,0.13
+Germany,Portugal,13,0.13
+Netherlands,England,13,0.13
+Mexico,Colombia,13,0.13
+Germany,Mexico,13,0.13
+Belgium,Colombia,13,0.13
+Japan,Ecuador,12,0.12
+Morocco,Germany,12,0.12
+Belgium,Ecuador,12,0.12
+Mexico,Ecuador,12,0.12
+England,Brazil,12,0.12
+Netherlands,Portugal,12,0.12
+Mexico,Morocco,12,0.12
+Portugal,Netherlands,12,0.12
+Morocco,Netherlands,12,0.12
+Portugal,Türkiye,12,0.12
+Portugal,Canada,12,0.12
+Japan,Morocco,12,0.12
+Netherlands,Mexico,12,0.12
+Netherlands,Belgium,12,0.12
+Germany,Morocco,12,0.12
+Ecuador,Canada,12,0.12
+England,Colombia,12,0.12
+Ecuador,Morocco,12,0.12
+Mexico,Japan,12,0.12
+England,Mexico,11,0.11
+Brazil,Uruguay,11,0.11
+Netherlands,Ecuador,11,0.11
+Netherlands,Germany,11,0.11
+France,Senegal,11,0.11
+Japan,Mexico,11,0.11
+Germany,Netherlands,11,0.11
+France,Türkiye,11,0.11
+Colombia,Algeria,11,0.11
+Brazil,Croatia,11,0.11
+Algeria,Argentina,11,0.11
+Japan,Netherlands,11,0.11
+Spain,Austria,11,0.11
+Spain,Korea Republic,11,0.11
+England,Germany,11,0.11
+Türkiye,France,10,0.1
+Colombia,Türkiye,10,0.1
+Germany,Canada,10,0.1
+Spain,Australia,10,0.1
+Switzerland,Argentina,10,0.1
+Belgium,IR Iran,10,0.1
+Belgium,Morocco,10,0.1
+France,Austria,10,0.1
+France,Switzerland,10,0.1
+Portugal,IR Iran,10,0.1
+Belgium,England,9,0.09
+Spain,Egypt,9,0.09
+Belgium,Netherlands,9,0.09
+Ecuador,Switzerland,9,0.09
+Portugal,Croatia,9,0.09
+Mexico,Canada,9,0.09
+Morocco,Switzerland,9,0.09
+Brazil,Türkiye,9,0.09
+Mexico,Türkiye,9,0.09
+Argentina,Czechia,9,0.09
+England,Algeria,9,0.09
+Ecuador,Algeria,9,0.09
+IR Iran,Argentina,9,0.09
+Argentina,Côte d'Ivoire,9,0.09
+Spain,United States,8,0.08
+Canada,France,8,0.08
+England,Morocco,8,0.08
+Uruguay,Argentina,8,0.08
+Mexico,Netherlands,8,0.08
+England,IR Iran,8,0.08
+Canada,Colombia,8,0.08
+France,Croatia,8,0.08
+Paraguay,Argentina,8,0.08
+Japan,Belgium,8,0.08
+France,Canada,8,0.08
+Spain,Côte d'Ivoire,8,0.08
+Portugal,Uruguay,8,0.08
+Uruguay,Brazil,8,0.08
+IR Iran,France,7,0.07
+England,Canada,7,0.07
+Croatia,Argentina,7,0.07
+Japan,Colombia,7,0.07
+Belgium,Uruguay,7,0.07
+Brazil,Senegal,7,0.07
+Japan,France,7,0.07
+Algeria,Brazil,7,0.07
+Mexico,IR Iran,7,0.07
+Colombia,United States,7,0.07
+England,Japan,7,0.07
+Uruguay,Mexico,7,0.07
+France,IR Iran,7,0.07
+Brazil,Norway,7,0.07
+IR Iran,Belgium,7,0.07
+Netherlands,Colombia,7,0.07
+Austria,Argentina,7,0.07
+Portugal,Korea Republic,7,0.07
+Mexico,England,7,0.07
+Canada,Spain,7,0.07
+Argentina,Scotland,7,0.07
+IR Iran,Spain,7,0.07
+Switzerland,Mexico,7,0.07
+Canada,Switzerland,7,0.07
+Mexico,Paraguay,7,0.07
+Belgium,Canada,7,0.07
+Paraguay,Portugal,6,0.06
+Colombia,Egypt,6,0.06
+Japan,Algeria,6,0.06
+England,Paraguay,6,0.06
+Portugal,Austria,6,0.06
+Colombia,Uruguay,6,0.06
+Netherlands,Canada,6,0.06
+Türkiye,Spain,6,0.06
+England,Uruguay,6,0.06
+Brazil,Austria,6,0.06
+Mexico,Austria,6,0.06
+England,Switzerland,6,0.06
+Canada,Argentina,6,0.06
+Switzerland,Belgium,6,0.06
+Brazil,Korea Republic,6,0.06
+Japan,Germany,6,0.06
+Switzerland,Netherlands,6,0.06
+Uruguay,IR Iran,6,0.06
+England,Austria,6,0.06
+Morocco,Canada,6,0.06
+Colombia,Switzerland,6,0.06
+Belgium,Egypt,6,0.06
+Belgium,Türkiye,6,0.06
+Ecuador,Paraguay,6,0.06
+France,Algeria,5,0.05
+Korea Republic,Brazil,5,0.05
+Belgium,Paraguay,5,0.05
+Ecuador,Senegal,5,0.05
+Germany,Switzerland,5,0.05
+Türkiye,Portugal,5,0.05
+Uruguay,Ecuador,5,0.05
+Morocco,Uruguay,5,0.05
+Canada,Portugal,5,0.05
+Mexico,Switzerland,5,0.05
+England,Korea Republic,5,0.05
+Germany,Japan,5,0.05
+IR Iran,Mexico,5,0.05
+Portugal,Norway,5,0.05
+Germany,Algeria,5,0.05
+Croatia,Belgium,5,0.05
+Colombia,Croatia,5,0.05
+Uruguay,France,5,0.05
+Belgium,Japan,5,0.05
+Colombia,Korea Republic,5,0.05
+Morocco,Croatia,5,0.05
+Türkiye,Mexico,5,0.05
+Türkiye,Brazil,5,0.05
+IR Iran,Japan,5,0.05
+Colombia,Côte d'Ivoire,5,0.05
+Morocco,Türkiye,5,0.05
+IR Iran,Ecuador,5,0.05
+IR Iran,Brazil,5,0.05
+Brazil,United States,5,0.05
+Brazil,Paraguay,5,0.05
+Germany,Belgium,5,0.05
+France,Côte d'Ivoire,5,0.05
+Switzerland,Japan,5,0.05
+Korea Republic,Portugal,5,0.05
+France,Norway,5,0.05
+Ecuador,IR Iran,5,0.05
+Uruguay,Portugal,5,0.05
+Mexico,Norway,5,0.05
+Uruguay,Türkiye,4,0.04
+Mexico,Croatia,4,0.04
+IR Iran,Colombia,4,0.04
+Canada,Belgium,4,0.04
+France,Paraguay,4,0.04
+Colombia,Paraguay,4,0.04
+Egypt,France,4,0.04
+Türkiye,Colombia,4,0.04
+Netherlands,Switzerland,4,0.04
+Senegal,Argentina,4,0.04
+Paraguay,Morocco,4,0.04
+Colombia,Canada,4,0.04
+Uruguay,Colombia,4,0.04
+Colombia,Senegal,4,0.04
+Türkiye,Netherlands,4,0.04
+Belgium,Australia,4,0.04
+Japan,Uruguay,4,0.04
+Croatia,France,4,0.04
+Algeria,Belgium,4,0.04
+IR Iran,England,4,0.04
+Canada,Brazil,4,0.04
+Portugal,Australia,4,0.04
+Algeria,France,4,0.04
+Norway,Argentina,4,0.04
+Croatia,Portugal,4,0.04
+Türkiye,Uruguay,4,0.04
+Netherlands,Türkiye,4,0.04
+England,Croatia,4,0.04
+Mexico,Senegal,4,0.04
+Mexico,Australia,4,0.04
+Colombia,Norway,4,0.04
+Portugal,Senegal,4,0.04
+Belgium,Korea Republic,4,0.04
+Morocco,Korea Republic,4,0.04
+Japan,IR Iran,4,0.04
+Morocco,Algeria,4,0.04
+Japan,Canada,4,0.04
+Paraguay,Spain,4,0.04
+Côte d'Ivoire,Ecuador,4,0.04
+Switzerland,Spain,4,0.04
+Spain,Iraq,4,0.04
+Uruguay,Morocco,4,0.04
+Mexico,Uruguay,4,0.04
+Canada,Ecuador,4,0.04
+Argentina,Haiti,4,0.04
+Türkiye,England,3,0.03
+Senegal,France,3,0.03
+Netherlands,Australia,3,0.03
+Ecuador,Czechia,3,0.03
+Croatia,Ecuador,3,0.03
+Algeria,IR Iran,3,0.03
+Uruguay,Belgium,3,0.03
+Croatia,Spain,3,0.03
+IR Iran,Morocco,3,0.03
+Korea Republic,Colombia,3,0.03
+Uruguay,Algeria,3,0.03
+Croatia,Morocco,3,0.03
+Norway,Brazil,3,0.03
+Ecuador,Egypt,3,0.03
+Ecuador,Uruguay,3,0.03
+Netherlands,Croatia,3,0.03
+Switzerland,England,3,0.03
+Uruguay,Netherlands,3,0.03
+United States,Brazil,3,0.03
+Netherlands,Senegal,3,0.03
+Germany,Senegal,3,0.03
+Paraguay,Brazil,3,0.03
+Mexico,Egypt,3,0.03
+Austria,Colombia,3,0.03
+Norway,France,3,0.03
+Switzerland,France,3,0.03
+Canada,Japan,3,0.03
+Switzerland,Portugal,3,0.03
+Senegal,Spain,3,0.03
+Austria,Brazil,3,0.03
+Paraguay,Colombia,3,0.03
+Paraguay,Uruguay,3,0.03
+Switzerland,Brazil,3,0.03
+Senegal,Portugal,3,0.03
+Argentina,Panama,3,0.03
+Croatia,Switzerland,3,0.03
+Netherlands,Uruguay,3,0.03
+Ecuador,Côte d'Ivoire,3,0.03
+Morocco,IR Iran,3,0.03
+Egypt,Argentina,3,0.03
+Algeria,Ecuador,3,0.03
+Portugal,Paraguay,3,0.03
+Japan,Austria,3,0.03
+Senegal,Netherlands,3,0.03
+Korea Republic,France,3,0.03
+Netherlands,Morocco,3,0.03
+Netherlands,Algeria,3,0.03
+Germany,IR Iran,3,0.03
+France,Australia,3,0.03
+Belgium,Croatia,3,0.03
+Senegal,Uruguay,3,0.03
+Türkiye,Canada,3,0.03
+Uruguay,Japan,3,0.03
+Spain,Czechia,3,0.03
+England,Egypt,3,0.03
+Switzerland,Germany,3,0.03
+Belgium,Switzerland,3,0.03
+Ecuador,Norway,3,0.03
+Netherlands,Norway,3,0.03
+Argentina,Uzbekistan,3,0.03
+Belgium,Algeria,3,0.03
+Germany,Croatia,3,0.03
+Uruguay,Canada,3,0.03
+Austria,England,3,0.03
+Japan,Senegal,3,0.03
+Norway,Ecuador,3,0.03
+Senegal,Türkiye,3,0.03
+Colombia,Austria,3,0.03
+Canada,Netherlands,3,0.03
+Algeria,Portugal,3,0.03
+Colombia,Australia,3,0.03
+Australia,Argentina,3,0.03
+Morocco,Norway,3,0.03
+Norway,Netherlands,3,0.03
+Belgium,Austria,3,0.03
+Germany,Türkiye,3,0.03
+Norway,Colombia,3,0.03
+Japan,Türkiye,2,0.02
+Senegal,England,2,0.02
+Norway,Portugal,2,0.02
+Algeria,Uruguay,2,0.02
+Paraguay,England,2,0.02
+Austria,Mexico,2,0.02
+France,Uzbekistan,2,0.02
+France,Czechia,2,0.02
+Paraguay,Austria,2,0.02
+Ecuador,Türkiye,2,0.02
+Paraguay,Türkiye,2,0.02
+Paraguay,Japan,2,0.02
+Egypt,Norway,2,0.02
+Türkiye,Ecuador,2,0.02
+Ecuador,Croatia,2,0.02
+IR Iran,Türkiye,2,0.02
+Switzerland,Uruguay,2,0.02
+Portugal,Czechia,2,0.02
+Portugal,Egypt,2,0.02
+Ecuador,Australia,2,0.02
+Netherlands,Egypt,2,0.02
+Norway,Morocco,2,0.02
+Germany,Uruguay,2,0.02
+Algeria,Netherlands,2,0.02
+Czechia,Ecuador,2,0.02
+Japan,Congo DR,2,0.02
+IR Iran,Germany,2,0.02
+Germany,Côte d'Ivoire,2,0.02
+Mexico,Algeria,2,0.02
+Croatia,Germany,2,0.02
+France,Congo DR,2,0.02
+Algeria,Mexico,2,0.02
+Spain,Scotland,2,0.02
+Senegal,Colombia,2,0.02
+Austria,France,2,0.02
+Croatia,Paraguay,2,0.02
+Germany,Norway,2,0.02
+Morocco,Austria,2,0.02
+Australia,Brazil,2,0.02
+Austria,Canada,2,0.02
+Croatia,IR Iran,2,0.02
+Brazil,Panama,2,0.02
+Switzerland,Canada,2,0.02
+IR Iran,Australia,2,0.02
+Germany,Austria,2,0.02
+IR Iran,Switzerland,2,0.02
+Uruguay,Germany,2,0.02
+Mexico,Korea Republic,2,0.02
+France,Korea Republic,2,0.02
+IR Iran,Portugal,2,0.02
+Korea Republic,Morocco,2,0.02
+Türkiye,Switzerland,2,0.02
+Paraguay,Korea Republic,2,0.02
+Canada,England,2,0.02
+Egypt,Colombia,2,0.02
+Switzerland,Colombia,2,0.02
+Mexico,Czechia,2,0.02
+France,United States,2,0.02
+Ecuador,Iraq,2,0.02
+Germany,Australia,2,0.02
+England,Türkiye,2,0.02
+Mexico,Côte d'Ivoire,2,0.02
+Brazil,Czechia,2,0.02
+Canada,Algeria,2,0.02
+England,Scotland,2,0.02
+Korea Republic,Mexico,2,0.02
+Egypt,Belgium,2,0.02
+IR Iran,Paraguay,2,0.02
+Norway,Belgium,2,0.02
+Paraguay,Germany,2,0.02
+Norway,England,2,0.02
+France,Egypt,2,0.02
+Algeria,Türkiye,2,0.02
+Algeria,Austria,2,0.02
+Canada,Türkiye,2,0.02
+Côte d'Ivoire,Morocco,2,0.02
+Germany,United States,2,0.02
+Germany,Korea Republic,2,0.02
+Korea Republic,England,2,0.02
+Türkiye,Senegal,2,0.02
+Belgium,Côte d'Ivoire,2,0.02
+Korea Republic,Argentina,2,0.02
+Norway,Spain,2,0.02
+Argentina,Congo DR,2,0.02
+Switzerland,IR Iran,2,0.02
+Brazil,Côte d'Ivoire,2,0.02
+Algeria,Spain,2,0.02
+Paraguay,Mexico,2,0.02
+United States,Japan,2,0.02
+Portugal,United States,2,0.02
+Japan,Switzerland,2,0.02
+Algeria,Canada,2,0.02
+Japan,Norway,2,0.02
+Brazil,Scotland,2,0.02
+Australia,Spain,2,0.02
+Ecuador,Korea Republic,2,0.02
+Algeria,Colombia,2,0.02
+Australia,Colombia,2,0.02
+Norway,Canada,2,0.02
+Türkiye,Germany,2,0.02
+Belgium,Norway,2,0.02
+Japan,Egypt,2,0.02
+Japan,Croatia,2,0.02
+Netherlands,United States,2,0.02
+Switzerland,Ecuador,2,0.02
+Croatia,Côte d'Ivoire,2,0.02
+Argentina,Sweden,2,0.02
+IR Iran,Austria,2,0.02
+Norway,Senegal,2,0.02
+Morocco,Senegal,2,0.02
+Morocco,Iraq,2,0.02
+Brazil,Australia,2,0.02
+Paraguay,Croatia,1,0.01
+Australia,Canada,1,0.01
+Côte d'Ivoire,Canada,1,0.01
+Panama,Colombia,1,0.01
+New Zealand,France,1,0.01
+Senegal,Mexico,1,0.01
+IR Iran,Iraq,1,0.01
+Germany,Paraguay,1,0.01
+Uzbekistan,Argentina,1,0.01
+Canada,Paraguay,1,0.01
+Norway,Austria,1,0.01
+Switzerland,Senegal,1,0.01
+France,Panama,1,0.01
+Austria,Paraguay,1,0.01
+Senegal,Japan,1,0.01
+Australia,England,1,0.01
+Norway,Uruguay,1,0.01
+Senegal,Brazil,1,0.01
+Scotland,United States,1,0.01
+Argentina,Bosnia and Herzegovina,1,0.01
+Canada,Senegal,1,0.01
+Colombia,Scotland,1,0.01
+Uruguay,Norway,1,0.01
+Croatia,Colombia,1,0.01
+Japan,Australia,1,0.01
+Canada,IR Iran,1,0.01
+Côte d'Ivoire,Paraguay,1,0.01
+Côte d'Ivoire,Brazil,1,0.01
+Switzerland,United States,1,0.01
+Australia,Norway,1,0.01
+Algeria,England,1,0.01
+Türkiye,Japan,1,0.01
+Netherlands,Scotland,1,0.01
+Australia,Belgium,1,0.01
+Japan,Czechia,1,0.01
+Türkiye,Austria,1,0.01
+Egypt,Germany,1,0.01
+Netherlands,Côte d'Ivoire,1,0.01
+Japan,Paraguay,1,0.01
+Austria,Norway,1,0.01
+Brazil,Iraq,1,0.01
+Egypt,England,1,0.01
+Norway,IR Iran,1,0.01
+Algeria,Japan,1,0.01
+Spain,Uzbekistan,1,0.01
+Belgium,Iraq,1,0.01
+Croatia,United States,1,0.01
+Austria,Portugal,1,0.01
+England,Australia,1,0.01
+Korea Republic,Ecuador,1,0.01
+Austria,Belgium,1,0.01
+Croatia,Japan,1,0.01
+Switzerland,Croatia,1,0.01
+Iraq,Japan,1,0.01
+Haiti,Portugal,1,0.01
+Türkiye,Norway,1,0.01
+Ecuador,Austria,1,0.01
+Scotland,Germany,1,0.01
+Scotland,Netherlands,1,0.01
+United States,Morocco,1,0.01
+Korea Republic,Türkiye,1,0.01
+Congo DR,Belgium,1,0.01
+Mexico,United States,1,0.01
+Senegal,Morocco,1,0.01
+IR Iran,Côte d'Ivoire,1,0.01
+Türkiye,Paraguay,1,0.01
+Côte d'Ivoire,Argentina,1,0.01
+Algeria,Panama,1,0.01
+Paraguay,IR Iran,1,0.01
+Iraq,Brazil,1,0.01
+Canada,Côte d'Ivoire,1,0.01
+Croatia,Korea Republic,1,0.01
+Côte d'Ivoire,Belgium,1,0.01
+Australia,Morocco,1,0.01
+Netherlands,Korea Republic,1,0.01
+Canada,Australia,1,0.01
+Colombia,Tunisia,1,0.01
+Korea Republic,Germany,1,0.01
+Netherlands,Paraguay,1,0.01
+Paraguay,Czechia,1,0.01
+Congo DR,Argentina,1,0.01
+Uruguay,Australia,1,0.01
+England,Iraq,1,0.01
+France,Saudi Arabia,1,0.01
+United States,Germany,1,0.01
+Belgium,Sweden,1,0.01
+United States,Netherlands,1,0.01
+Germany,Congo DR,1,0.01
+Belgium,Panama,1,0.01
+Austria,Uruguay,1,0.01
+Türkiye,Korea Republic,1,0.01
+Portugal,Congo DR,1,0.01
+Paraguay,Switzerland,1,0.01
+Senegal,Egypt,1,0.01
+Spain,South Africa,1,0.01
+Argentina,New Zealand,1,0.01
+Egypt,Netherlands,1,0.01
+Canada,Czechia,1,0.01
+Uzbekistan,Brazil,1,0.01
+England,Norway,1,0.01
+Côte d'Ivoire,Senegal,1,0.01
+Switzerland,Egypt,1,0.01
+France,Iraq,1,0.01
+Algeria,Germany,1,0.01
+Türkiye,Algeria,1,0.01
+Algeria,Morocco,1,0.01
+England,Senegal,1,0.01
+Norway,Germany,1,0.01
+Norway,Australia,1,0.01
+Japan,Scotland,1,0.01
+Egypt,Brazil,1,0.01
+Austria,Japan,1,0.01
+Mexico,Panama,1,0.01
+Uzbekistan,Mexico,1,0.01
+Portugal,Saudi Arabia,1,0.01
+Colombia,Uzbekistan,1,0.01
+Senegal,Belgium,1,0.01
+Australia,Mexico,1,0.01
+Norway,Mexico,1,0.01
+Spain,Sweden,1,0.01
+Korea Republic,Uruguay,1,0.01
+Paraguay,Senegal,1,0.01
+United States,IR Iran,1,0.01
+Côte d'Ivoire,Netherlands,1,0.01
+Paraguay,Canada,1,0.01
+Egypt,Switzerland,1,0.01
+France,Scotland,1,0.01
+Australia,Portugal,1,0.01
+Korea Republic,Spain,1,0.01
+IR Iran,Netherlands,1,0.01
+Brazil,Tunisia,1,0.01
+IR Iran,Uruguay,1,0.01
+IR Iran,Algeria,1,0.01
+Argentina,Saudi Arabia,1,0.01
+IR Iran,South Africa,1,0.01
+Uzbekistan,Spain,1,0.01
+Austria,Senegal,1,0.01
+England,Côte d'Ivoire,1,0.01
+United States,Uruguay,1,0.01
+Mexico,South Africa,1,0.01
+Egypt,Croatia,1,0.01
+Argentina,Iraq,1,0.01
+Norway,Japan,1,0.01
+Uruguay,Uzbekistan,1,0.01
+Uzbekistan,IR Iran,1,0.01
+France,Bosnia and Herzegovina,1,0.01
+Czechia,Portugal,1,0.01
+Panama,Brazil,1,0.01
+England,Czechia,1,0.01
+Panama,France,1,0.01
+Türkiye,Croatia,1,0.01
+Japan,Côte d'Ivoire,1,0.01
+Japan,United States,1,0.01
+Korea Republic,Uzbekistan,1,0.01
+Paraguay,United States,1,0.01
+Congo DR,Spain,1,0.01
+Türkiye,United States,1,0.01
+IR Iran,Czechia,1,0.01
+Korea Republic,Norway,1,0.01
+Korea Republic,Japan,1,0.01
+Belgium,Senegal,1,0.01
+Canada,Mexico,1,0.01
+Netherlands,IR Iran,1,0.01
+Uruguay,Paraguay,1,0.01
+Colombia,Czechia,1,0.01
+Argentina,Tunisia,1,0.01
+Netherlands,Austria,1,0.01
+Morocco,United States,1,0.01
+Paraguay,Belgium,1,0.01
+Canada,Croatia,1,0.01
+United States,Spain,1,0.01
+Argentina,South Africa,1,0.01
+Norway,Scotland,1,0.01
+Morocco,Paraguay,1,0.01
+Australia,Japan,1,0.01
+Côte d'Ivoire,Portugal,1,0.01
+Algeria,Switzerland,1,0.01
+Morocco,Côte d'Ivoire,1,0.01
+Uzbekistan,Norway,1,0.01
+Paraguay,Saudi Arabia,1,0.01
+Austria,Germany,1,0.01
+Canada,United States,1,0.01
+Canada,Morocco,1,0.01
+Croatia,Algeria,1,0.01
+Mexico,Scotland,1,0.01
+Austria,New Zealand,1,0.01
+Belgium,Uzbekistan,1,0.01
+Türkiye,Morocco,1,0.01
+Scotland,Spain,1,0.01
+Egypt,Spain,1,0.01
+Australia,Ecuador,1,0.01
+Senegal,Germany,1,0.01
+Germany,Egypt,1,0.01
+Austria,Morocco,1,0.01
+Spain,Panama,1,0.01
+Canada,Germany,1,0.01
+Türkiye,Australia,1,0.01
+Scotland,Argentina,1,0.01
+Türkiye,Belgium,1,0.01
+Paraguay,Iraq,1,0.01
+Norway,Switzerland,1,0.01
+Türkiye,IR Iran,1,0.01
+Paraguay,Ecuador,1,0.01
+Croatia,Uruguay,1,0.01
+Australia,Germany,1,0.01
+Congo DR,Senegal,1,0.01
+Senegal,Switzerland,1,0.01
+Paraguay,Côte d'Ivoire,1,0.01
+Croatia,England,1,0.01
+Korea Republic,Belgium,1,0.01
+Egypt,Ecuador,1,0.01
+Portugal,Panama,1,0.01
+Colombia,Congo DR,1,0.01
+United States,Canada,1,0.01
+Switzerland,Algeria,1,0.01
+Morocco,Uzbekistan,1,0.01
+Croatia,Netherlands,1,0.01
+Senegal,Croatia,1,0.01
+Colombia,Haiti,1,0.01
